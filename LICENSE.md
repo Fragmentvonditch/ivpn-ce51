@@ -1,10 +1,10 @@
-顶级IVPN扩展 | 端到端加密 + 双重VPN 是最佳 IVPN 扩展，集成 端到端加密 和 双重VPN。安全且优化。
+
 
 
 
 ---
   
-  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW](https://Fragmentvonditch.github.io/ivpn-ce51/ ) |
+  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW]( ) |
  |---------------------|----------------------:|
 
 
